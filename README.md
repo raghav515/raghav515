@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Raghavendra Jadhav 
 - 👀 I’m interested in IOT,CAM/CAD,Cyber Security.
-- 🌱 I’m currently learning CAD using Autodesk Fusion 360
+- 🌱 I’m currently learning CAD using Autodesk Fusion 360.
+- ✨ I like to make codes simple and beginner friendly.
 - 📫 How to reach me :
 - Email : rjadhav4103@gmail.com
 
